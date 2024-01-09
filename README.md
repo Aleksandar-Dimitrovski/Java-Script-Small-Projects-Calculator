@@ -42,3 +42,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ---
 
 Feel free to use this simple calculator or expand upon it as a learning exercise. Happy coding!
+# Calculator Project
